@@ -6,7 +6,7 @@
 
 <h1 align="center"> 👀 Resultados</h1>
 
-<img align="center" src="src/pokedex.mp4" width="1920"/>
+[Assista ao vídeo](https://github.com/ThullioF/Pokedex/raw/main/pokedex.mp4)
 <br/>
 <br/>
 
